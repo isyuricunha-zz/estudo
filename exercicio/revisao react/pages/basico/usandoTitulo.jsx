@@ -8,6 +8,5 @@ export default function usandoTitulo() {
   );
 }
 
-
 // posso importar um component para reuso, o que é bem mais confortavel
 // reultilizando o componente faz mais sentido do que refazer
