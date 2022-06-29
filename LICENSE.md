@@ -1,5 +1,7 @@
 Yuri Cunha Personal License
 
+YCPL is a personal license for the use of the software.
+
 # License
 
 1. You are free to use this code as inspiration.
